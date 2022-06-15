@@ -8,3 +8,4 @@ Este proyecto es presentado como propuesta de infraestuctura de seguridad para i
 3. Realizar el diagrama de Arquitectura de infraestructura de la empresa.[https://github.com/DanielLeonPI/Proyecto-Innova/blob/main/Configuracion_infraestructura_innova.pkt]
 4. Realizar configuraciones a nivel de seguridad de un switch en la topología presentada.[https://github.com/DanielLeonPI/Proyecto-Innova/blob/main/Configuracion_seguridad.pkt]
 5. Realizar Video funcionamiento de Packet Tracert a nivel de seguridad. [https://youtu.be/sJBvSCrXnIA]
+6. Website coorporativo[https://danielleonpi.github.io/innova-corporative/]
